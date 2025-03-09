@@ -1,7 +1,5 @@
 # Revisión de Código y Mejora de Buenas Prácticas
 
-Este documento contiene una serie de observaciones sobre el código en el repositorio, identificando problemas relacionados con nombres no descriptivos, inconsistencias en los nombres, problemas de sintaxis, repetición de código y falta de encapsulación. A continuación, se detallan los problemas encontrados junto con sugerencias de mejora.
-
 ## 1. Nombres No Descriptivos o Ambiguos
 
 - [`Parcial.java#L9`](https://github.com/celiabecerril/23-24-prg2-ep/blame/445ddf27e1ca6e7870647bf9760e6f23f7a4daf0/src/Parcial.java#L9)
